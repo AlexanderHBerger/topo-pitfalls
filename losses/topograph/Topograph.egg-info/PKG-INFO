@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Topograph
+Version: 1.0.0
+Summary: Highly Efficient C++ Topograph implementation
+Home-page: 
+Author: Alexander H. Berger
+Author-email: a.berger@tum.de
+Requires-Python: >=3.7
+Provides-Extra: test
