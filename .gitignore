@@ -12,7 +12,6 @@ build
 dist
 *egg-info*
 /cell_scripts
-/configs
 /gen_figures
 model_paths.txt
 reevaluated
